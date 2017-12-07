@@ -6,4 +6,8 @@ devel
 profile.tmp
 
 .DS_Store
-README.md
+.idea/
+
+models/
+datasets/
+training/

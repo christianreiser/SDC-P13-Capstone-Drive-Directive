@@ -94,7 +94,8 @@ class WaypointUpdater(object):
 
         # get max speed
         velocity = rospy.get_param('/waypoint_loader/velocity')
-        self.speed_limit = velocity * 1000 / 3600. # m/s
+        # times 0.9 to make it slower 
+        self.speed_limit = velocity * 0.9 * 1000 / 3600. # m/s 
         rospy.loginfo("param velocity:%s speed_limit:%s m/s", velocity, self.speed_limit)
 
         # current position of the car
