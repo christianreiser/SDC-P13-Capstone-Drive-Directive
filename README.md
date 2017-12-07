@@ -5,7 +5,7 @@ Name                       | eMail                             | Time Zone
 ---------------------------|-----------------------------------|----------
 Wade Ju                    | wade_ju@me.com (wadeju@yahoo.com) | UTC-8
 Jan Grodowski	           | jgrodowski@gmail.com              | UTC+1
-Christian Reiser	   | reisercg@gmail.com	               | UTC+1
+Christian Reiser	   | chrisi.reiser@gmail.com	               | UTC+1
 Cedric Bodet               | bodetc@gmail.com	               | UTC+1/+2
 Piotr (Peter) Szczesnowicz | szczesnowicz.piotr@gmail.com      | UTC-05
 
